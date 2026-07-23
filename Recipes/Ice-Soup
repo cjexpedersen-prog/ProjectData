@@ -12,9 +12,9 @@
           ,"3. Serve immediately, or let sit in fridge until ice has shrunk to desired size."],
       "typ-cost":".03",
       "servings":"2",
-      "time":["1 Minute","2 Minutes"],
-      "tags":["Cost effective","Breakfast","Lunch","Dinner"],
-      "image-link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yb-JorCfXesBlDSJ50jfIbT5Hv3yHeh3jYi6Def4D5Br90YCTljHTY0k&s=10"
-    }
+      "time":["1 Minute","2 Minutes"]
+    },
+  "image-link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yb-JorCfXesBlDSJ50jfIbT5Hv3yHeh3jYi6Def4D5Br90YCTljHTY0k&s=10"
+  "tags":["Cost effective","Breakfast","Lunch","Dinner"]
   }
 }
