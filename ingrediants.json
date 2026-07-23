@@ -166,6 +166,12 @@
      "white-wine":{
        "cost":".05",
        "unit":"tsp"},
+     "white-bread":{
+       "cost":".07",
+       "unit":"slice"},
+     "wheat-bread":{
+       "cost":".09",
+       "unit":"slice"},
    },
     "Entries":54
   }
