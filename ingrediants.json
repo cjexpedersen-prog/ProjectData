@@ -4,6 +4,9 @@
      "salt":{
        "cost":".01",
        "unit":"tsp"},
+     "ice":{
+       "cost":".01",
+       "unit":"Cup"},
       "butter-unsalted":{
        "cost":".01",
        "unit":"Tb"},
