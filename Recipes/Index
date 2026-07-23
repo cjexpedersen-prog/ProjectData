@@ -1,7 +1,8 @@
 {
 "data":{
 "recipes":[
-["ice-soup",".03"]
+[["ice-soup",".03"],["Breakfast","Lunch","Dinner","Simple","Cost effective"]]
+
 ]
 }
 }
