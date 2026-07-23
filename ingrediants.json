@@ -171,7 +171,7 @@
        "unit":"slice"},
      "wheat-bread":{
        "cost":".09",
-       "unit":"slice"},
+       "unit":"slice"}
    },
     "Entries":54
   }
