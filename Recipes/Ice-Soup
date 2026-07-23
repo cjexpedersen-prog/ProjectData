@@ -2,10 +2,8 @@
   "data":{
     "recipe":{
       "name":"ice soup",
-      "ingredients":[
-        ["ice","water"],
-        ["1","3"],
-        ["Cup","Cup"]],
+      "ingredients":
+        ["1 Cup Ice","3 Cups Water"],
         "steps":[
           "1. Take 1 cup ice of preferred shape, pour into a large bowl "
           ,"2. Take 3 cups water, preferably cold, and pour into the bowl over ice until ice is just covered"
