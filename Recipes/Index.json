@@ -2,8 +2,8 @@
 "data":{
 "Entries":"1",
 "recipes":[
-[["ice-soup",".03"],["Breakfast","Lunch","Dinner","Simple","Cost effective"]]
-
+[["ice-soup",".03"],["Breakfast","Lunch","Dinner","Simple","Cost effective"]],
+[["toast-sandwich",".21"],["Breakfast","Lunch","Dinner","Simple","Cost effective"]]
 ]
 }
 }
