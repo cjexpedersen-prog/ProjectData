@@ -1,11 +1,12 @@
 {
 "data":{
-"Entries":"4",
+"Entries":"5",
 "recipes":[
 [["ice-soup",".03"],["Breakfast","Lunch","Dinner","Simple","Cost effective"]],
 [["toast-sandwich",".21"],["Breakfast","Lunch","Dinner","Simple","Cost effective"]],
 [["korean-noodle-soup","5"],["Spicy","Lunch","Dinner"]],
-[["deviled-eggs",".50"],["Cost effective","Appetizer"]]
+[["deviled-eggs",".50"],["Cost effective","Appetizer"]],
+[["Pancakes",".75"],["Cost effective","Breakfast"]]
 ]
 }
 }
