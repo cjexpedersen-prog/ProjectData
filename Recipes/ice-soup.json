@@ -5,9 +5,9 @@
       "ingredients":
         ["1 Cup Ice","3 Cups Water"],
         "steps":[
-          "1. Take 1 cup ice of preferred shape, pour into a large bowl "
-          ,"2. Take 3 cups water, preferably cold, and pour into the bowl over ice until ice is just covered"
-          ,"3. Serve immediately, or let sit in fridge until ice has shrunk to desired size."],
+          "Take 1 cup ice of preferred shape, pour into a large bowl "
+          ,"Take 3 cups water, preferably cold, and pour into the bowl over ice until ice is just covered"
+          ,"Serve immediately, or let sit in fridge until ice has shrunk to desired size."],
       "typ-cost":".03",
       "servings":"2",
       "time":["1 Minute","2 Minutes"]
