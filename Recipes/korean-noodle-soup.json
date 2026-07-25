@@ -1,0 +1,19 @@
+{
+  "data":{
+    "recipe":{
+      "name":"Korean Noodle Soup",
+      "ingredients":
+        ["4 Cups chicken stock","2/3 cup cabbage kimchi","2 tbsp kimchi juice","3 tbsp gochujang","2 tbsp light soy sauce","2 tsp fish sauce","1 tbsp Chinese cooking wine","2 slices ginger","1 large garlic clove","7oz thin fresh egg noodles","4 stems choi sum","1 small carrot","2 1/2 tsp sesame oil","1/4 cup finely sliced green onions"],
+        "steps":[
+          "For the Broth: Place all broth ingredients in a saucepan. Bring to a simmer over medium-high heat, then reduce heat so it’s simmering gently. Simmer 10 minutes without a lid."
+          ,"Add choi sum stems and carrot to the broth. Simmer for 2 minutes. Add choi sum leaves and simmer for another minute. Stir in sesame oil just before serving"
+          ,"Meanwhile, cook egg noodles in boiling water per packet directions. Drain, give the noodles a quick rinse under tap water. Shake off excess water well."
+          ,"Divide noodles between bowls. Top with the vegetables. Pick the garlic and ginger out of the broth, then broth pour over the noodles. Sprinkle with green onions and serve."],
+      "typ-cost":"5",
+      "servings":"2",
+      "time":["15 Minutes","5 Minutes"]
+    },
+  "image-link":"https://www.recipetineats.com/tachyon/2023/05/Spicy-Korean-noodle-soup_4.jpg",
+  "tags":["Spicy","Lunch","Dinner"]
+  }
+}
