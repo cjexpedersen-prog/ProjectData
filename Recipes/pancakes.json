@@ -1,0 +1,20 @@
+{
+  "data":{
+    "recipe":{
+      "name":"pancakes",
+      "ingredients":
+        ["1 1/2C all-purpose flour","3 1/2tsp baking powder","1Tb white sugar","1/4tsp salt","1 1/4C milk","3Tb melted butter","1 egg"],
+        "steps":[
+          "Combine flour, baking powder, sugar, and salt together into a bowl. Add liquids and egg, mix until smooth."
+          ,"Lightly oil a shallow pain and heat to meduim-high. Pour 1/4C of batter in per pancake, cook until top is bubbling and edges are dry."
+          ,"When toast has finsished toasting, place onto one slice of bread and top with the other slice."
+          ,"Flip, and cook until browned on bottom, check with toothpick if uncertain."
+          ,"Serve while hot, butter and syrup optional."],
+      "typ-cost":".75",
+      "servings":"8",
+      "time":["15 Minutes","5 Minutes"]
+    },
+  "image-link":"https://lilluna.com/wp-content/uploads/2026/03/pancakes-recipe-resize-16-500x500.jpg",
+  "tags":["Cost effective","Breakfast","Dinner"]
+  }
+}
