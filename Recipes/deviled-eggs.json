@@ -1,0 +1,20 @@
+{
+  "data":{
+    "recipe":{
+      "name":"deviled eggs",
+      "ingredients":
+        ["12 eggs","1/4C mayo","1Tb Butter","2tsp Yellow mustard","2tsp Dijon mustard","2tsp sweet pickle juice","1tsp Sugar","1tsp Cholula hot sauce","1/8tsp Salt","1/8tsp Pepper","paprika for sprinkling"],
+        "steps":[
+          "Place eggs in a large saucepan and cover with water, bring to boil and allow eggs to boil for one minute before removing from heat. Let eggs sit for 17 minutes, then drain the water and place eggs into an ice bath. Peel eggs when cooled and set aside"
+          ,"Slice eggs in half lengthwise and remove yolk, setting aside into a medium size bowl."
+          ,"Add mayo, butter, mustard, sugar, salt, pepper, pickle juice, and Cholula. Use fork or potato masher to combine well."
+          ,"Spoon filling into egg egg white, sprinkle with paprika."
+          ,"Plate and serve immediately, or refridgerate for up to a day."],
+      "typ-cost":".50",
+      "servings":"24",
+      "time":["15 Minutes","20 Minutes"]
+    },
+  "image-link":"https://www.thelittlepine.com/wp-content/uploads/2020/02/deviled-eggs-recipe-1.jpg",
+  "tags":["Cost effective","Appetizer"]
+  }
+}
