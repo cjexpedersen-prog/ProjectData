@@ -1,0 +1,19 @@
+{
+  "data":{
+    "recipe":{
+      "name":"toast sandwich",
+      "ingredients":
+        ["3 slices of white bread"],
+        "steps":[
+          "Take 1 slice of white bread and toast to desired color."
+          ,"Take two slices of white bread, butter or season with condiments as desired."
+          ,"When toast has finsished toasting, place onto one slice of bread and top with the other slice."
+          ,"Serve immediately, or allow time for toast to cool."],
+      "typ-cost":".21",
+      "servings":"1",
+      "time":["2 Minute","1 Minutes"]
+    },
+  "image-link":"https://www.sandwichtribunal.com/wp-content/uploads/2019/10/IMG_8397.jpg",
+  "tags":["Cost effective","Breakfast","Lunch","Dinner","Simple"]
+  }
+}
