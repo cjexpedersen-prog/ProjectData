@@ -1,0 +1,23 @@
+{
+  "data":{
+    "recipe":{
+      "name":"Eggs Benedict",
+      "ingredients":
+        ["2 English muffins","4 eggs","4 slices of Canadian bacon","whire vinegar","4Tb Salted butter","4 egg yolks","2tsp lemon juice","1Tb heavy whipping cream","salt to taste","pepper to taste"],
+        "steps":[
+          "For the sauce, melt the butter in a small saucepan on medium-low. In a bowl to the side, beat the egg yolks and add lemon juice, heavy cream, and salt and pepper to taste"
+          ,"Add butter a spoonful at a time, stirring well between. When no butter remains, pour mixture back into saucepan and cook on low for half a minute, whisking constantly. Take off of heat and set aside."
+          ,"For the eggs, fill a meduium pot with three inches water and bring to boil, then reduce heat to simmer and add a splash of vinegar."
+          ,"Gently crack and an egg, taking care to ensure that yolk and white do not separate or break."
+          ,"Let egg cook for three to five minutes, then remove with slotted spoon. Repeat for each egg."
+          ,"While eggs are cooking, slice and fry canadian bacon to desired crisp, then set on english muffin."
+          ,"Place sauce onto bacon, then top with egg"
+          ,"Serve and enjoy while hot"],
+      "typ-cost":"2.45",
+      "servings":"4",
+      "time":["25 Minutes","10 Minutes"]
+    },
+  "image-link":"https://ohthatsgood.com/wp-content/uploads/2022/05/Eggs-Benedict1200x1200.jpg",
+  "tags":["Brunch"]
+  }
+}
