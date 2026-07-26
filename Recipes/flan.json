@@ -1,0 +1,24 @@
+{
+  "data":{
+    "recipe":{
+      "name":"flan",
+      "ingredients":
+        ["3/4C granulated sugar","5 eggs","14oz sweetened condensed milk","12oz evaporated milk","1Tb vanilla extract","1/4C water"],
+        "steps":[
+          "Preheat oven to 350F"
+          ,"Add sugar to medium saucepan heated to meduim, along with water. Stir frequently until sugar is dissolved (around 2 minutes)"
+          ,"Increase heat to medium-high and wait until it is golden or amber in color, stirring occasionally."
+          ,"Pour into an 8in round cake pan, tilt and rotate until caramel has spread to all portions of the bottom. Set aside to cool."
+          ,"Combine eggs, condensed milk, evaporated milk, and vanilla extract in blender or whisk in bowl till combined. Pour through Sieve to remove bubbles."
+          ,"Take cooled cake pan and set onto roasting pan or baking dish, and pour milk mixture into it gently. Fill pan or dish with an inch of water."
+          ,"Transfer to oven and bake for 35-40 minutes, until center is just set (flan should wobble slightly when wiggled)"
+          ,"Remove from oven and set cake pan on wire rack to cool to room temperature, then set in refridgerator to cool fully."
+          ,"After 1 to 2 hours, flan should be cooled. Serve and enjoy within the next few days."],
+      "typ-cost":"3.5",
+      "servings":"8",
+      "time":["50 Minutes","20 Minutes"]
+    },
+  "image-link":"https://www.cookingclassy.com/wp-content/uploads/2020/09/flan-6.jpg",
+  "tags":["Dessert"]
+  }
+}
