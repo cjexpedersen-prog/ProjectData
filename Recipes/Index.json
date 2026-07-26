@@ -6,7 +6,9 @@
 [["toast-sandwich",".21"],["Breakfast","Lunch","Dinner","Simple","Cost effective"]],
 [["korean-noodle-soup","5"],["Spicy","Lunch","Dinner"]],
 [["deviled-eggs",".50"],["Cost effective","Appetizer"]],
-[["Pancakes",".75"],["Cost effective","Breakfast"]]
+[["pancakes",".75"],["Cost effective","Breakfast"]],
+[["flan","3.50"],["Dessert"]],
+[["eggs-benedict","2.45"],["Brunch"]]
 ]
 }
 }
